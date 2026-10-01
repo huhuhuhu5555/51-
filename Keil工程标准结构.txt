@@ -1,0 +1,6 @@
+工程根目录/
+├── App/          ← 你的业务代码
+├── Public/       ← 共用库（HAL库、FreeRTOS等）
+├── User/         ← 外设驱动代码
+├── Obj/          ← 编译输出（可清理）
+└── template.uvproj  ← 主工程文件
