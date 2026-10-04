@@ -23,7 +23,7 @@ void main()
   KEY3=1;
   TMOD=0x20;
   TH1=0xFD;
-  TL1=0xFD; 
+  TL1=0xFD;
   SCON=0x50;
   PCON &=0x7F;
   TR1=1;

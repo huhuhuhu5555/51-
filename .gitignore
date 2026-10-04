@@ -19,6 +19,7 @@
 
 # Keil 链接输出的无扩展名可执行文件
 template
+project
 
 # ============ Keil 用户配置与备份（每人不同，不入库） ============
 *.uvopt
@@ -32,3 +33,6 @@ template
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+# ============ AI 工作文档（含官方资料提取 + 个人分析，不入库） ============
+AI工作文档/
